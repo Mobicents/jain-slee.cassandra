@@ -1,2 +1,2 @@
 # jain-slee.cassandra
-Cassandra Resource Adaptor for JAIN SLEE
+Cassandra Resource Adaptor for RestComm JAIN SLEE
